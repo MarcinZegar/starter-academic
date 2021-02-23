@@ -20,7 +20,7 @@ social:
   - display:
       header: false
     link: https://www.facebook.com/marcin.zegarmistrz
-    icon_pack: far
+    icon_pack: fab
     icon: facebook
 organizations:
   - name: "Rotman School of Management "
