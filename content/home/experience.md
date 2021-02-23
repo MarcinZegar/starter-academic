@@ -44,7 +44,7 @@ experience:
       Responsibilities include:
       
         * Completed a researched based thesis project “Quantum Computing and Quantum Supremacy: Fact? Fiction? Perhaps a superposition of both?” 
-        * Comprehensive research reviewing the mathematical literature about quantum computing and recent claims for quantum supremacy over classical computers
+        * Comprehensive research reviewing the mathematical literature about quantum computing and recent claims for quantum supremacy over classical computers.
 
  - title: Pool-In-Charge
     company: City of Toronto
@@ -57,7 +57,7 @@ experience:
       
          * Managed a team of 5-10 employees to ensure proper administration and operation of the pool.
          * Extensive experience providing customer service and responding to various inquiries to ensure satisfaction with services. Additionally, responded to a variety of first aid situations ensuring the safety of all patrons.
-         * Taught and organized a variety of training for staff to refresh and keep the highest standard of safety
+         * Taught and organized a variety of training for staff to refresh and keep the highest standard of safety.
 
    - title: Programming Intern
     company: Stock Render
