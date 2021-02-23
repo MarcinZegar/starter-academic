@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+- description: Advanced
+  icon: PostgreSQL_logo
+  icon_pack: custom
+  name: SQL
 - description: 90%
   icon: r-project
   icon_pack: fab
