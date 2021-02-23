@@ -97,7 +97,7 @@ address = { city = "Toronto", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.651070", longitude = "79.347015"}
+coordinates = {latitude = "43.66515058652918", longitude = "-79.3986029624999"}
 
 # Directions for visitors to locate you.
 #directions = ""
