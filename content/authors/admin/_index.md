@@ -1,5 +1,5 @@
 ---
-role: "Data Analyst | AI "
+role: Data Analyst | AI Specialist | Mathematics Enthusiast
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
