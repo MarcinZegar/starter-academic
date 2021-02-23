@@ -23,19 +23,16 @@ social:
     icon_pack: far
     icon: facebook
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: "Rotman School of Management "
+    url: https://www.rotman.utoronto.ca/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Management Analytics
+      institution: Rotman School of Management - University of Toronto
+      year: 2021
+    - course: Bachelor of Health Science - Course Emphasis Mathematics
+      institution: "McMaster University "
+      year: 2020
 superuser: true
 highlight_name: false
 title: "Marcin Zegarmistrz "
