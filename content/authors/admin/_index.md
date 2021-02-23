@@ -1,8 +1,7 @@
 ---
 role: Data Analyst | AI Specialist | Mathematics Enthusiast
 avatar_filename: grad-picture.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Quantum Computing
   - Artificial Intelligence
@@ -32,16 +31,14 @@ education:
       year: 2021
     - course: Bachelor of Health Science - Emphasis Mathematics
       institution: "McMaster University "
-      year: 2020
+      year: ""
 superuser: true
 highlight_name: false
 title: "Marcin Zegarmistrz "
 email: ""
 ---
-Marcin Zegarmistrz is highly motivated and collaborative team player with an passion for Data Science, specifcally leveraging Artificual Intelligence algortihms. He has experience in mathematical research, specifically investigating claims for the 'supremacy' of quantum computer. He is passionate about mathematicss, his strong quantitative and computational skills provide a strong foundation to be successful.
+Marcin Zegarmistrz is highly motivated and collaborative team player with an passion for Data Science, specifically leveraging Artificial Intelligence algorithms in the business world. He has experience in mathematical research, specifically investigating claims for the 'supremacy' of quantum computer. He is passionate about mathematics, his strong quantitative and computational skills provide a strong foundation to be successful.
 
 In his spare time, he loves fishing, cycling and spending time outdoors.
-
-
 
 SITE UNDER CONSTRUCTION
