@@ -41,3 +41,7 @@ email: ""
 Marcin Zegarmistrz is highly motivated and collaborative team player with an passion for Data Science, specifcally leveraging Artificual Intelligence algortihms. He has experience in mathematical research, specifically investigating claims for the 'supremacy' of quantum computer. He is passionate about mathematicss, his strong quantitative and computational skills provide a strong foundation to be successful.
 
 In his spare time, he loves fishing, cycling and spending time outdoors.
+
+
+
+SITE UNDER CONSTRUCTION
