@@ -39,7 +39,7 @@ experience:
     company_url: ''
     location: Hamilton, Ontario
     date_start: '2019-09-01'
-    date_end: '2020-04-27'
+    date_end: '2020-04-01'
     description: |2-
         Responsibilities include:
         
