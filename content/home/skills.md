@@ -25,18 +25,22 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: Advanced
-  icon: PostgreSQL_logo
-  icon_pack: custom
+  icon: database
+  icon_pack: fas
   name: SQL
-- description: 90%
-  icon: r-project
+- description: Advanced
+  icon: calculator
+  icon_pack: fas
+  name: Mathematics
+- description: Intermediate
+  icon: network-wired
+  icon_pack: fas
+  name: Cloud Computing (Azure)
+- icon: r-project
   icon_pack: fab
   name: R
-
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  description: Intermediate
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
