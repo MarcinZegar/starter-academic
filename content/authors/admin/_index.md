@@ -37,8 +37,6 @@ highlight_name: false
 title: "Marcin Zegarmistrz "
 email: ""
 ---
-Marcin Zegarmistrz is highly motivated and collaborative team player with an passion for Data Science, specifically leveraging Artificial Intelligence algorithms in the business world. He has experience in mathematical research, specifically investigating claims for the 'supremacy' of quantum computer. He is passionate about mathematics, his strong quantitative and computational skills provide a strong foundation to be successful.
+***Marcin Zegarmistrz*** is highly motivated and collaborative team player with an passion for Data Science, specifically leveraging Artificial Intelligence algorithms in the business world. He has experience in mathematical research, specifically investigating claims for the 'supremacy' of quantum computer. He is passionate about mathematics, his strong quantitative and computational skills provide a strong foundation to be successful.
 
 In his spare time, he loves fishing, cycling and spending time outdoors.
-
-SITE UNDER CONSTRUCTION
