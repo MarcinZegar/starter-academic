@@ -44,15 +44,16 @@ experience:
         Completed a researched based thesis project “Quantum Computing and Quantum Supremacy: Fact? Fiction? Perhaps a superposition of both?”. 
         Comprehensive research reviewing the mathematical literature about quantum computing and recent claims for quantum supremacy over classical computers.
 
-  - title: Data Science Intern
-    company: TeraNet Inc.
+  - title: Pool-In-Charge
+    company: City of Toronto
     company_url: ''
-    location: Toronto
-    date_start: '2020-09-01'
-    date_end: ''
+    location: Toronto, Ontario
+    date_start: '2014-09-01'
+    date_end: '2020-09-01'
     description: |2-
         Responsibilities include:
         
-        * Appling **Machine Learning & Data Analytics** techniques to aerial/satellite images of properties to extract structural features of residential buildings. 
-        * Leveraging Deep Learning within ArcGIS Pro and its Python implementation with PyTorch to identify specific patterns. These include property type, type of roofing, property size, presence of a swimming pool etc.
+        * Managed a team of 5-10 employees to ensure proper administration and operation of the pool.
+         * Extensive experience providing customer service and responding to various inquiries to ensure satisfaction with services. Additionally, responded to a variety of first aid situations ensuring the safety of all patrons.
+         * Taught and organized a variety of training for staff to refresh and keep the highest standard of safety.
 ---
