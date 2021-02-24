@@ -34,7 +34,7 @@ experience:
         * Appling **Machine Learning & Data Analytics** techniques to aerial/satellite images of properties to extract structural features of residential buildings. 
         * Leveraging Deep Learning within ArcGIS Pro and its Python implementation with PyTorch to identify specific patterns. These include property type, type of roofing, property size, presence of a swimming pool etc.
 
-  - title: Data Science Intern
+  - title: Pool-In-Charge
     company: TeraNet Inc.
     company_url: ''
     location: Toronto
