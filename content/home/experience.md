@@ -31,8 +31,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Appling **Machine Learning & Data Analytics** techniques to aerial/satellite images of properties to extract structural features of residential buildings. 
-        * Leveraging Deep Learning within ArcGIS Pro and its Python implementation with PyTorch to identify specific patterns. These include property type, type of roofing, property size, presence of a swimming pool etc.
+        * Applying **Machine Learning & Data Analytics** techniques to aerial/satellite images of properties to extract structural features of residential buildings. 
+        * Leveraging Deep Learning within ArcGIS Pro and its Python implementation with PyTorch to identify specific patterns. These include: property type, type of roofing, property size, presence of a swimming pool etc.
 
   - title: Studnet Research Associate
     company: McMaster University
@@ -41,6 +41,7 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-04-01'
     description: |2-
+      Responsibilities include:
         * Completed a researched based thesis project “Quantum Computing and Quantum Supremacy: Fact? Fiction? Perhaps a superposition of both?”. 
         * Comprehensive research reviewing the mathematical literature about quantum computing and recent claims for quantum supremacy over classical computers.
 
