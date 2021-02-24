@@ -26,7 +26,7 @@ item:
 - certificate_url: https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
   date_end: ""
   date_start: "2020-02-10"
-  description: Microsoft Azure Fundamentals -In Progress
+  description: Microsoft Azure Fundamentals - ***In Progress***
   organization: Microsoft
   organization_url: https://docs.microsoft.com/en-us/learn
   title: Microsoft Azure Fundamentals
@@ -34,7 +34,7 @@ item:
 - certificate_url: https://www.tableau.com/learn/certification/desktop-specialist
   date_end: ""
   date_start: "2020-02-10"
-  description: Foundational skills and understanding of Tableau Desktop
+  description: Foundational skills and understanding of Tableau Desktop - ***In Progress***
   organization: Tableau
   organization_url: https://www.tableau.com
   title: Tableau Desktop Specialist 
