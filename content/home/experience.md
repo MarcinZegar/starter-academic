@@ -41,8 +41,8 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-04-01'
     description: |2-
-        Completed a researched based thesis project “Quantum Computing and Quantum Supremacy: Fact? Fiction? Perhaps a superposition of both?”. 
-        Comprehensive research reviewing the mathematical literature about quantum computing and recent claims for quantum supremacy over classical computers.
+        * Completed a researched based thesis project “Quantum Computing and Quantum Supremacy: Fact? Fiction? Perhaps a superposition of both?”. 
+        * Comprehensive research reviewing the mathematical literature about quantum computing and recent claims for quantum supremacy over classical computers.
 
   - title: Pool-In-Charge
     company: City of Toronto
