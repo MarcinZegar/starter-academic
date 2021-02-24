@@ -16,6 +16,7 @@ design:
   columns: 1
 ---
 *Rotman School of Management*
+
 **Master of Management Analytics Social Representative, October 2020-Present**
 ***
   - Responsible for communicating with faculty and students to organize a variety of social events. 
@@ -24,6 +25,7 @@ design:
 ***
 
 *First Institute of Canadian Inventors (FICI) McMaster Chapter*
+
 **Co-Founder and President, 2018-2020**
 ***
 
