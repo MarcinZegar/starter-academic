@@ -29,7 +29,7 @@ education:
     - course: Master of Management Analytics
       institution: Rotman School of Management - University of Toronto
       year: 2021
-    - course: Bachelor of Health Science - Emphasis Mathematics
+    - course: "Honours Bachelor of Health Science - Mathematics Emphasis "
       institution: "McMaster University "
       year: 2020
 superuser: true
