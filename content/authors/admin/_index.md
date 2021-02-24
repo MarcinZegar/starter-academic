@@ -41,4 +41,4 @@ email: ""
 
 In his spare time, he loves fishing, cycling, and spending time outdoors.
 
-View his CV for more information about with qualifications, experience, and education.
+View his CV for more information about his qualifications, experience, and education.
