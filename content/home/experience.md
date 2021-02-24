@@ -56,4 +56,15 @@ experience:
         * Managed a team of 5-10 employees to ensure proper administration and operation of the pool.
          * Extensive experience providing customer service and responding to various inquiries to ensure satisfaction with services. Additionally, responded to a variety of first aid situations ensuring the safety of all patrons.
          * Taught and organized a variety of training for staff to refresh and keep the highest standard of safety.
+
+  - title: Programming Intern
+    company: Stock Render
+    company_url: ''
+    location: Toronto, Ontario
+    date_start: '2015-01-01'
+    date_end: '2015-06-27'
+    description: |2-
+        Responsibilities include:
+      
+        *	Spearheaded the creation of an interactive heat-map for the S&P 500 leveraging a variety of JavaScript libraries. Presented results to the CEO. The applet was added to the company’s public offerings.
 ---
